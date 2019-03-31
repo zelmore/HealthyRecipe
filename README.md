@@ -1,2 +1,2 @@
 # HealthyRecipe
-an application that displays a recipe for Bruschetta
+an Android application that displays a recipe for Bruschetta
